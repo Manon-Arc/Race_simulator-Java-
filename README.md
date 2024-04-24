@@ -9,9 +9,9 @@ This README will guide you through setting up your environment, compiling the pr
 ## 📌 Table of Contents:
 
 I. [Badges](#🎯-badges)    
-III. [Prerequisites](#🔧-prerequisites)  
-IV. [Starting the Simulator](#💻-starting-the-simulator)  
-V. [Project Overview](#🌟-project-overview)  
+II. [Prerequisites](#🔧-prerequisites)  
+III. [Starting the Simulator](#💻-starting-the-simulator)  
+IV. [Project Overview](#🌟-project-overview)  
 
 ## 🎯 Badges
 
