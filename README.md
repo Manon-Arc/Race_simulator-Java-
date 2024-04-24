@@ -60,7 +60,7 @@ V. [Project Overview](#🌟-project-overview)
     ...
 ```
 
-### 3. Start the program
+### 2. Start the program
 ```bash
 javac *.java -d build
 
